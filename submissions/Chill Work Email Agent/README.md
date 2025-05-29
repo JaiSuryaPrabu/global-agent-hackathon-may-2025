@@ -4,7 +4,7 @@ Chill Work Email Agent is an email assistant designed to reduce email overload b
 ## Working of the app
 ![Flow of the app](docs/Flow_of_Email_Agent_App.png)
 ## Demo of the app
-
+https://github.com/user-attachments/assets/dff7be14-bc95-4dda-9378-a0a5874befdd
 ## Tech Stack
 1. **Agno** - AI Agent
 2. **Google OAuth** - Authentication 
